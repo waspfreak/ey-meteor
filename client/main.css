@@ -1,0 +1,23 @@
+
+@import url("css/normalize.css");
+@import url("css/webflow.css");
+@import url("css/lon-ey-mobility-prototype-b9ec02660d5f0.webflow.css");
+
+/* CSS declarations go here */
+/*LEFT NAV*/
+a.ey-nav-link-bloc.w-inline-block:hover .material-icons {
+color: #ffe600;
+}
+.ey-sub-nav-link-bloc:hover span {
+color: #ffe600;
+}
+.ey-nav-link-text span {
+  float: left;
+  margin-right: 10px;
+  margin-top: -3px;
+}
+.ey-employee-status-card .ey-employee-status-card-icon {
+  	font-size: 16px;
+  	color: #216bbe;
+  	margin-top: 2px;
+  }
