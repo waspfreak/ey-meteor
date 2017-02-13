@@ -3,8 +3,8 @@
 Install meteor
 curl https://install.meteor.com/ | sh
 
-cd go-folder
-npm install meteor
+cd go-folder ===>
+npm install
 meteor
 
 */*
