@@ -1,4 +1,4 @@
-# ey-meteor
+# app-meteor
 
 Install meteor
 curl https://install.meteor.com/ | sh
